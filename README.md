@@ -4,6 +4,7 @@
 - ✍ I’m currently learning ICL.
 - 📫 Reach me by 1441739845@qq.com or 213212831@seu.edu.cn
 - 🏡 Shenzhen, Guangdong
+- 🎮Steam ID @2chen29
 # 🎓Education
 - 🏫 2021.9~now, Undergraduate, Mathmetics, Southeast University, China
 - 🎓 2023.9~2023.12, International Communication, University of California, Davis, America
