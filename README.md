@@ -2,11 +2,12 @@
 # 👋 Hi, I’m 2chen
 - ✨ I’m interested in 🏀🏸🎦🏊‍♂️🚴‍♂️🛌🎱📸🎮🎶🥋🎤.
 - ✍ I’m currently learning ICL.
-- 📫 Reach me by 1441739845@qq.com or 213212831@seu.edu.cn
+- 📫 Reach me by 250010008@slai.edu.cn or 1441739845@qq.com
 - 🏡 Shenzhen, Guangdong
 - 🎮Steam ID @2chen29
 # 🎓Education
-- 🏫 2021.9~now, Undergraduate, Mathmetics, Southeast University, China
+- 🏫 2025.9~now, Phd, Artificial Intelligence, Shenzhen Loop Area Institute
+- 🎓 2021.9~2025.6, Undergraduate, Mathmetics, Southeast University, China
 - 🎓 2023.9~2023.12, International Communication, University of California, Davis, America
 - 🎓 2018.9~2021.6, The First Middle School of Huazhou City
 # 📝Paper
