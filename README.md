@@ -1,7 +1,7 @@
 
 # 👋 Hi, I’m 2chen
 - ✨ I’m interested in 🏀🏸🎦🏊‍♂️🚴‍♂️🛌🎱📸🎮🎶🥋🎤.
-- ✍ I’m currently learning ICL.
+- ✍ I’m currently learning Embodied AI.
 - 📫 Reach me by 250010008@slai.edu.cn or 1441739845@qq.com
 - 🏡 Shenzhen, Guangdong
 - 🎮Steam ID @2chen29
